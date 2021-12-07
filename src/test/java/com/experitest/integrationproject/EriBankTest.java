@@ -18,7 +18,7 @@ import io.appium.java_client.remote.IOSMobileCapabilityType;
 import io.appium.java_client.remote.MobileCapabilityType;
 
 public class EriBankTest {
-	 private String accessKey = "eyJ4cC51IjozODI3MjEsInhwLnAiOjIsInhwLm0iOiJNVFUxTmpnd09UVTROakk1T0EiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE4NzIxNjk1ODYsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.aTgX-5SHxDCBFF2opiw6tAoiRSifp84tJtrQd9-N2go";
+	 private String accessKey = "eyJhbGciOiJIUzI1NiJ9.eyJ4cC51IjozODI3MjEsInhwLnAiOjIsInhwLm0iOjE2MDg4MDY4MDc1MzQsImV4cCI6MTkyNDE2NjgwNywiaXNzIjoiY29tLmV4cGVyaXRlc3QifQ.hcQGB4_WB0PjwtdoeiKLEaE4JEggwMtETYEaRK70NVw";
 	    protected IOSDriver<IOSElement> driver = null;
 	    DesiredCapabilities dc = new DesiredCapabilities();
 
